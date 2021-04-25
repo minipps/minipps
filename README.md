@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## :wave: Welcome!
-📚 Computer Science @ USAL (Spain)
+📚 Computer Science @ USAL (Spain)  
 :cherry_blossom: Interests: Game Development, SysAdmin... I'm kind of a generalist, though!
 ## :chart_with_upwards_trend: Stats
 [![Josde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josde&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
