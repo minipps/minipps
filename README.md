@@ -1,5 +1,5 @@
 ## :wave: Welcome!
-📚 Computer Science @ USAL (Spain)
+📚 Computer Science @ USAL (Spain)  
 :cherry_blossom: Interests: Game Development, SysAdmin... I'm kind of a generalist, though!
 
 ## :chart_with_upwards_trend: Stats
