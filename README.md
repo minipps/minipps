@@ -3,7 +3,7 @@
 :cherry_blossom: Interests: Game Development, SysAdmin... I'm kind of a generalist, though!
 
 ## :chart_with_upwards_trend: Stats
-[![Josde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josde&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Josde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josde&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josde&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## :musical_note: Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
