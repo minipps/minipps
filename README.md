@@ -10,6 +10,7 @@
 ## :octocat: Smol projects
  - [SimpleSoloQTracker](https://github.com/Josde/SimpleSoloQTracker) - Simple and rushed SoloQ Challenge Tracker I made for me and my friends in around one day.
  - [AdSysPlugin](https://github.com/Josde/AdSysPlugin) - A simple and rushed Spigot plugin that I made for a class presentation.
+ - [My gists](https://gist.github.com/Josde) - Small scripts that might help you in some way.
 
 ## Languages
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
