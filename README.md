@@ -1,6 +1,6 @@
 ## :wave: Welcome!
 📚 Computer Science @ USAL (Spain)  
-:cherry_blossom: Interests: Game Development, SysAdmin... I'm kind of a generalist, though!
+:cherry_blossom: Interests: Game Development, SysAdmin, Fullstack... I'm kind of a generalist, though!
 
 ## :chart_with_upwards_trend: Stats
 [![Josde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josde&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josde&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,7 +8,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## :octocat: Smol projects
- - [SimpleSoloQTracker](https://github.com/Josde/SimpleSoloQTracker) - Simple and rushed SoloQ Challenge Tracker I made for me and my friends in around one day.
+ - [Skaarladder](https://github.com/Josde/Skaarladder) - Skaarladder is a WIP rewrite of an old project of mine. It's aim is to allow everyone to create a soloQ ladder to compete with their friends for a limited amount of time.
  - [AdSysPlugin](https://github.com/Josde/AdSysPlugin) - A simple and rushed Spigot plugin that I made for a class presentation.
  - [My gists](https://gist.github.com/Josde) - Small scripts that might help you in some way.
 
