@@ -1,6 +1,6 @@
 ## :wave: Welcome!
 📚 Computer Science @ USAL (Spain)  
-:cherry_blossom: Interests: Game Development, SysAdmin, Fullstack... I'm kind of a generalist, though!
+:cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society.
 
 ## :chart_with_upwards_trend: Stats
 [![Josde's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Josde&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Josde&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,17 +8,18 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## :octocat: Smol projects
+ - [Habitr](https://github.com/Josde/habitr_tfg) - Habitr is my Bachelor's Thesis. It is a cross-platform app that aims to help its users build up healthy routinse through gamification. It is still in an uncompleted state, but will eventually be good enough for a release
  - [Skaarladder](https://github.com/Josde/Skaarladder) - Skaarladder is a WIP rewrite of an old project of mine. It's aim is to allow everyone to create a soloQ ladder to compete with their friends for a limited amount of time.
- - [AdSysPlugin](https://github.com/Josde/AdSysPlugin) - A simple and rushed Spigot plugin that I made for a class presentation.
  - [My gists](https://gist.github.com/Josde) - Small scripts that might help you in some way.
 
 ## Languages
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-## Technologies
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-## IDEs
-<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 	![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+## Technologies
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+## IDEs  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ## 📫 Social Media
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jorgecruz@usal.es) [<img alt="Twitch" src="https://img.shields.io/badge/Josde_-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/josde_) [<img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />](http://paypal.me/itsJosde)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://secretstash.herokuapp.com/#!/show/b30f8a72c45181386aa521d404ec9bcf73d1c53b77996b93a3bd9afa10059c71) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/josde_) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itsJosde) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/sXV9KMgd)
