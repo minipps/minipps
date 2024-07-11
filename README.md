@@ -5,7 +5,7 @@
 ## :chart_with_upwards_trend: Stats
 [![Josde's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Josde&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Josde&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## :musical_note: Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## :octocat: Smol projects
  - [Habitr](https://github.com/Josde/habitr_tfg) - Habitr is my Bachelor's Thesis. It is a cross-platform app that aims to help its users build up healthy routinse through gamification. It is still in an uncompleted state, but will eventually be good enough for a release
