@@ -1,5 +1,6 @@
 ## :wave: Welcome!
 📚 Computer Science @ USAL (Spain)  
+📚 Master in Research of Information and Communication Technologies (Biomed Specialty)  @ UVA (Spain)  
 :cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society.
 
 ## :chart_with_upwards_trend: Stats
