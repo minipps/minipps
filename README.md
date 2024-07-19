@@ -1,7 +1,7 @@
 ## :wave: Welcome!
 📚 Computer Science @ USAL (Spain)  
 📚 Master in Research of Information and Communication Technologies (Biomed Specialty)  @ UVA (Spain)  
-:cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society.
+:cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society, psychology.
 
 ## :chart_with_upwards_trend: Stats
 [![Josde's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Josde&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Josde&theme=dracula&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
