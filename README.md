@@ -1,5 +1,5 @@
 ## :wave: Welcome!
-📚 Computer Science @ USAL (Spain)  https://github.com/Josde/Josde/blob/main/README.md
+📚 Computer Science @ USAL (Spain)  
 📚 Master in Research of Information and Communication Technologies (Biomed Specialty)  @ UVA (Spain)  
 :cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society, psychology.
 
