@@ -1,18 +1,17 @@
 ## :wave: Welcome!
 📚 Computer Science @ USAL (Spain)  
-📚 Master in Research of Information and Communication Technologies (Biomed Specialty)  @ UVA (Spain)  
 :cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society, psychology.
 
 ## :chart_with_upwards_trend: Stats
-[![Josde's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Josde&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Josde&theme=transparent&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Josde's GitHub stats](https://github-readme-stats.zohan.tech/api?username=minipps&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=minipps&theme=transparent&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :musical_note: Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## :octocat: Smol projects
- - [Habitr](https://github.com/Josde/habitr_tfg) - Habitr is my Bachelor's Thesis. It is a cross-platform app that aims to help its users build up healthy routinse through gamification. It is still in an uncompleted state, but will eventually be good enough for a release
- - [Skaarladder](https://github.com/Josde/Skaarladder) - Skaarladder is a WIP rewrite of an old project of mine. It's aim is to allow everyone to create a soloQ ladder to compete with their friends for a limited amount of time.
- - [My gists](https://gist.github.com/Josde) - Small scripts that might help you in some way.
+ - [Habitr](https://github.com/minipps/habitr_tfg) - Habitr is my Bachelor's Thesis. It is a cross-platform app that aims to help its users build up healthy routinse through gamification. It is still in an uncompleted state, but will eventually be good enough for a release
+ - [Skaarladder](https://github.com/minipps/Skaarladder) - Skaarladder is a WIP rewrite of an old project of mine. It's aim is to allow everyone to create a soloQ ladder to compete with their friends for a limited amount of time.
+ - [My gists](https://gist.github.com/minipps) - Small scripts that might help you in some way.
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 	![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
