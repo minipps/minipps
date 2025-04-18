@@ -9,6 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## :octocat: Smol projects
+ - [dospuntostr.es](https://dospuntostr.es/) - My personal webpage. Built with Hugo with support for the IndieWeb things like microformats and webmentions.
  - [Habitr](https://github.com/minipps/habitr_tfg) - Habitr is my Bachelor's Thesis. It is a cross-platform app that aims to help its users build up healthy routinse through gamification. It is still in an uncompleted state, but will eventually be good enough for a release
  - [Skaarladder](https://github.com/minipps/Skaarladder) - Skaarladder is a WIP rewrite of an old project of mine. It's aim is to allow everyone to create a soloQ ladder to compete with their friends for a limited amount of time.
  - [My gists](https://gist.github.com/minipps) - Small scripts that might help you in some way.
