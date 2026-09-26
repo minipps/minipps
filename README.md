@@ -10,7 +10,29 @@
 
 ## :movie_camera: Latest media updates
 <!-- aggregato:latest-start -->
-_No recent media updates._
+### Anime
+
+- **FLCL** · 2000 · Watch · 2026-08-08
+- **Tokyo Godfathers** · 2003 · Watch · 2025-12-24
+- **Chainsaw Man: Reze-hen** · 2025 · Watch · 2025-12-24
+
+### Manga
+
+- **Solanin** · Read · 2026-05-06
+- **Fire Punch** · Read · 2026-04-30
+- **Mob Psycho 100** · Read · 2026-04-21
+
+### Films
+
+- **A Monster in Paris** · 2011 · Watch · 2026-09-07
+- **An American Werewolf in London** · 1981 · Watch · 2026-08-23
+- **Van Helsing** · 2004 · Watch · 2026-08-15
+
+### Books
+
+- **El extranjero** · 1942 · Read · 2026-08-04
+- **Siddhartha** · 1922 · Read · 2026-07-09
+- **Cat’s Cradle** · 1963 · Read · 2026-06-17
 <!-- aggregato:latest-end -->
 
 ## :octocat: Smol projects
