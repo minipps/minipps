@@ -3,7 +3,7 @@
 :cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society, psychology.
 
 ## :chart_with_upwards_trend: Stats
-[![minipps's GitHub stats](https://github-readme-stats.zohan.tech/api?username=minipps&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=minipps&theme=transparent&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)
 
 ## :musical_note: Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
