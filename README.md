@@ -8,6 +8,11 @@
 ## :musical_note: Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+## :movie_camera: Latest media updates
+<!-- aggregato:latest-start -->
+_No recent media updates._
+<!-- aggregato:latest-end -->
+
 ## :octocat: Smol projects
  - [dospuntostr.es](https://dospuntostr.es/) - My personal webpage. Built with Hugo with support for the IndieWeb things like microformats and webmentions.
  - [Habitr](https://github.com/minipps/habitr_tfg) - Habitr is my Bachelor's Thesis. It is a cross-platform app that aims to help its users build up healthy routinse through gamification. It is still in an uncompleted state, but will eventually be good enough for a release

@@ -1,0 +1,35 @@
+name: Update media activity
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggregato-readme
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Fetch latest media updates
+        run: python scripts/update_aggregato_readme.py
+        env:
+          AGGREGATO_URL: ${{ secrets.AGGREGATO_URL }}
+          AGGREGATO_READONLY_TOKEN: ${{ secrets.AGGREGATO_READONLY_TOKEN }}
+      - name: Commit README changes
+        run: |
+          if git diff --quiet -- README.md; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update latest media activity"
+          git push
