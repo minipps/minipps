@@ -8,7 +8,7 @@ import json
 import os
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urlencode
+from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
 
 README = Path(__file__).resolve().parents[1] / "README.md"
@@ -100,7 +100,11 @@ def render_entries(
     return "\n".join(lines).strip() or "_No recent media updates._"
 
 
-def render_listen(entries: list[dict[str, object]], base_url: str) -> str:
+def render_listen(
+    entries: list[dict[str, object]],
+    base_url: str,
+    credits: list[dict[str, object]] | None = None,
+) -> str:
     if not entries:
         return "_No recent listens._"
     entry = entries[0]
@@ -114,10 +118,19 @@ def render_listen(entries: list[dict[str, object]], base_url: str) -> str:
     title = work.get("title")
     if not isinstance(title, str):
         raise ValueError("Unexpected title in Aggregato response")
-    image = image_tag(title, work.get("image"), base_url)
-    title_text = html.escape(" ".join(title.split())[:120])
-    content = f"<strong>{title_text}</strong>"
-    return f"{image}<br>{content}" if image else content
+    artists = ", ".join(
+        credit["creator_name"]
+        for credit in sorted(credits or [], key=lambda credit: credit.get("position", 0))
+        if credit.get("role") == "performer" and isinstance(credit.get("creator_name"), str)
+    )
+    label = " ".join(" - ".join(filter(None, (artists, title))).split())[:120]
+    image = image_tag(label, work.get("image"), base_url)
+    cell = f"{image}<br>" if image else ""
+    return (
+        "<table><tr>\n"
+        f'<td align="center">{cell}<strong>{html.escape(label)}</strong></td>\n'
+        "</tr></table>"
+    )
 
 
 def replace_section(
@@ -145,9 +158,24 @@ def fetch_entries(
         "order": "desc",
         "limit": limit,
     }
-    query = urlencode(params)
+    page = fetch_json(base_url, token, f"/api/v1/entries?{urlencode(params)}")
+    if not isinstance(page, dict) or not isinstance(page.get("items"), list):
+        raise ValueError("Unexpected response from Aggregato API")
+    return page["items"][:limit]
+
+
+def fetch_credits(base_url: str, token: str, entries: list[dict[str, object]]) -> list:
+    work = entries[0].get("work") if entries and isinstance(entries[0], dict) else None
+    if not isinstance(work, dict) or not isinstance(work.get("id"), str):
+        return []
+    detail = fetch_json(base_url, token, f"/api/v1/works/{quote(work['id'])}")
+    credits = detail.get("credits") if isinstance(detail, dict) else None
+    return [credit for credit in credits or [] if isinstance(credit, dict)]
+
+
+def fetch_json(base_url: str, token: str, path: str) -> object:
     request = Request(
-        f"{base_url.rstrip('/')}/api/v1/entries?{query}",
+        f"{base_url.rstrip('/')}{path}",
         headers={
             "Accept": "application/json",
             "Authorization": f"Bearer {token}",
@@ -155,10 +183,7 @@ def fetch_entries(
         },
     )
     with urlopen(request, timeout=20) as response:
-        page = json.load(response)
-    if not isinstance(page, dict) or not isinstance(page.get("items"), list):
-        raise ValueError("Unexpected response from Aggregato API")
-    return page["items"][:limit]
+        return json.load(response)
 
 
 def main() -> None:
@@ -177,7 +202,7 @@ def main() -> None:
     updated = replace_section(readme, render_entries(sections, base_url))
     updated = replace_section(
         updated,
-        render_listen(listen, base_url),
+        render_listen(listen, base_url, fetch_credits(base_url, token, listen)),
         LISTEN_START,
         LISTEN_END,
     )
