@@ -12,10 +12,10 @@
 ## :chart_with_upwards_trend: Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)
 
-## :musical_note: Spotify
-<!-- aggregato:spotify-start -->
+## :musical_note: Last listen
+<!-- aggregato:listen-start -->
 _No recent listens._
-<!-- aggregato:spotify-end -->
+<!-- aggregato:listen-end -->
 
 ## :movie_camera: Latest media updates
 <!-- aggregato:latest-start -->

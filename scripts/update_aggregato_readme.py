@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Refresh the Spotify and media activity sections of the profile README."""
+"""Refresh the latest listen and media activity sections of the profile README."""
 
 from __future__ import annotations
 
@@ -14,8 +14,8 @@ from urllib.request import Request, urlopen
 README = Path(__file__).resolve().parents[1] / "README.md"
 START = "<!-- aggregato:latest-start -->"
 END = "<!-- aggregato:latest-end -->"
-SPOTIFY_START = "<!-- aggregato:spotify-start -->"
-SPOTIFY_END = "<!-- aggregato:spotify-end -->"
+LISTEN_START = "<!-- aggregato:listen-start -->"
+LISTEN_END = "<!-- aggregato:listen-end -->"
 MEDIA_TYPES = (
     ("anime", "Anime"),
     ("manga", "Manga"),
@@ -24,7 +24,7 @@ MEDIA_TYPES = (
 )
 ENTRY_LIMIT = 25
 MEDIA_COVER_LIMIT = 5
-SPOTIFY_LIMIT = 1
+LISTEN_LIMIT = 1
 
 
 def format_date(value: str, precision: str) -> str:
@@ -100,7 +100,7 @@ def render_entries(
     return "\n".join(lines).strip() or "_No recent media updates._"
 
 
-def render_spotify(entries: list[dict[str, object]], base_url: str) -> str:
+def render_listen(entries: list[dict[str, object]], base_url: str) -> str:
     if not entries:
         return "_No recent listens._"
     entry = entries[0]
@@ -137,7 +137,6 @@ def fetch_entries(
     token: str,
     media_type: str,
     limit: int = ENTRY_LIMIT,
-    provider: str | None = None,
 ) -> list[dict[str, object]]:
     params = {
         "media_type": media_type,
@@ -146,8 +145,6 @@ def fetch_entries(
         "order": "desc",
         "limit": limit,
     }
-    if provider:
-        params["provider"] = provider
     query = urlencode(params)
     request = Request(
         f"{base_url.rstrip('/')}/api/v1/entries?{query}",
@@ -176,13 +173,13 @@ def main() -> None:
         (label, fetch_entries(base_url, token, media_type))
         for media_type, label in MEDIA_TYPES
     ]
-    spotify = fetch_entries(base_url, token, "track", SPOTIFY_LIMIT, "spotify")
+    listen = fetch_entries(base_url, token, "track", LISTEN_LIMIT)
     updated = replace_section(readme, render_entries(sections, base_url))
     updated = replace_section(
         updated,
-        render_spotify(spotify, base_url),
-        SPOTIFY_START,
-        SPOTIFY_END,
+        render_listen(listen, base_url),
+        LISTEN_START,
+        LISTEN_END,
     )
     if updated != readme:
         README.write_text(updated)
