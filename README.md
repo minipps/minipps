@@ -14,7 +14,9 @@
 
 ## :musical_note: Last listen
 <!-- aggregato:listen-start -->
-<img src="https://aggregato.dospuntostr.es/api/v1/media/image/952a09447bd24f934f213ec82ac210f7bffd922de5bbae9ea2fe97be1ffd4a85" alt="" title="Kenmokuseino Yuro" width="120"><br><strong>Kenmokuseino Yuro</strong>
+<table><tr>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/952a09447bd24f934f213ec82ac210f7bffd922de5bbae9ea2fe97be1ffd4a85" alt="" title="Kinoko Teikoku - Kenmokuseino Yuro" width="120"><br><strong>Kinoko Teikoku - Kenmokuseino Yuro</strong></td>
+</tr></table>
 <!-- aggregato:listen-end -->
 
 ## :movie_camera: Latest media updates
