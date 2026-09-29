@@ -14,7 +14,7 @@
 
 ## :musical_note: Last listen
 <!-- aggregato:listen-start -->
-_No recent listens._
+<img src="https://aggregato.dospuntostr.es/api/v1/media/image/952a09447bd24f934f213ec82ac210f7bffd922de5bbae9ea2fe97be1ffd4a85" alt="" title="Kenmokuseino Yuro" width="120"><br><strong>Kenmokuseino Yuro</strong>
 <!-- aggregato:listen-end -->
 
 ## :movie_camera: Latest media updates
