@@ -6,7 +6,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)
 
 ## :musical_note: Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l7rrexoe1hh5vz3faoy6k0rp8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<!-- aggregato:spotify-start -->
+_No recent listens._
+<!-- aggregato:spotify-end -->
 
 ## :movie_camera: Latest media updates
 <!-- aggregato:latest-start -->
