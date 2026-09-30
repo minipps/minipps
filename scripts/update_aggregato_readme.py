@@ -17,10 +17,10 @@ END = "<!-- aggregato:latest-end -->"
 LISTEN_START = "<!-- aggregato:listen-start -->"
 LISTEN_END = "<!-- aggregato:listen-end -->"
 MEDIA_TYPES = (
-    ("anime", "Anime"),
-    ("manga", "Manga"),
-    ("film", "Films"),
-    ("book", "Books"),
+    ("anime", "anime"),
+    ("manga", "manga"),
+    ("film", "films"),
+    ("book", "books"),
 )
 ENTRY_LIMIT = 25
 MEDIA_COVER_LIMIT = 5

@@ -1,25 +1,32 @@
-## :wave: Welcome!
-📚 Computer Science @ USAL (Spain)  
-:cherry_blossom: Interests: Fullstack, humane tech, impacts of technology in society, psychology.
+## me
+```json
+{
+    "interests": ["photography", "cooking", "philosophy", "reading"],
+    "likes": ["the wii", "moths", "serial experiments lain", "k-on"],
+    "education": ["computer science @ usal (2018-2023)", "master's degree @ uc3m (2027-?)"],
+    "projects": [
+        {
+            "name": "dospuntostr.es", "description": "my personal webpage. supports microformats and webmentions.", "state": "public"
+        }, 
+        {
+            "name": "aggregato", "description": "media logger aggregator. bunches up data from letterboxd, goodreads, and etc on the same page", "state": "private"
+        }, 
+        {
+            "name": "habitr", "description": "my CS thesis. cross-platform app to promote healthy routines through gamification.", "state": "public",
+        }
+    ]
+}
+```
 
 
-## :octocat: Smol projects
- - [dospuntostr.es](https://dospuntostr.es/) - My personal webpage. Built with Hugo with support for the IndieWeb things like microformats and webmentions.
- - [Habitr](https://github.com/minipps/habitr_tfg) - Habitr is my Bachelor's Thesis. It is a cross-platform app that aims to help its users build up healthy routinse through gamification. It is still in an uncompleted state, but will eventually be good enough for a release
- - [Skaarladder](https://github.com/minipps/Skaarladder) - Skaarladder is a WIP rewrite of an old project of mine. It's aim is to allow everyone to create a soloQ ladder to compete with their friends for a limited amount of time.
- - [My gists](https://gist.github.com/minipps) - Small scripts that might help you in some way.
-
-## :chart_with_upwards_trend: Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=minipps&include_all_commits=true&theme=omni) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=minipps&langs_count=4&theme=omni)
-
-## :musical_note: Last listen
+## last listen
 <!-- aggregato:listen-start -->
 <table><tr>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/952a09447bd24f934f213ec82ac210f7bffd922de5bbae9ea2fe97be1ffd4a85" alt="" title="Kinoko Teikoku - Kenmokuseino Yuro" width="120"><br><strong>Kinoko Teikoku - Kenmokuseino Yuro</strong></td>
 </tr></table>
 <!-- aggregato:listen-end -->
 
-## :movie_camera: Latest media updates
+## latest media updates
 <!-- aggregato:latest-start -->
 ### Anime
 
