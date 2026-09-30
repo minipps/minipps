@@ -28,7 +28,7 @@
 
 ## latest media updates
 <!-- aggregato:latest-start -->
-### Anime
+### anime
 
 <table><tr>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/f345378891e60c0b2918ee73b76d87869c15d98e20c12cf707025bd3ebbdc86a" alt="" title="FLCL · 2000 · Watch · 2026-08-08" width="120"><br><strong>FLCL</strong><br><small>2000 · Watch · 2026-08-08</small></td>
@@ -38,7 +38,7 @@
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/116cd8130aa05f92aeccd8f6756a5ae5c3ce47f0004b38d3caa499a7182ce276" alt="" title="Odd Taxi: In the Woods · 2022 · Watch · 2025-08-31" width="120"><br><strong>Odd Taxi: In the Woods</strong><br><small>2022 · Watch · 2025-08-31</small></td>
 </tr></table>
 
-### Manga
+### manga
 
 <table><tr>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/10337513c2fee3e137977b4fc391e9d3a8807ae83ae4d24d703859b687e9da1e" alt="" title="Solanin · Read · 2026-05-06" width="120"><br><strong>Solanin</strong><br><small>Read · 2026-05-06</small></td>
@@ -48,7 +48,7 @@
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/99af88f585b77cae8b04b208092699b43fbdd574a55686a7173cbb4f0e9fb688" alt="" title="Dr. STONE · Read · 2026-04-21" width="120"><br><strong>Dr. STONE</strong><br><small>Read · 2026-04-21</small></td>
 </tr></table>
 
-### Films
+### films
 
 <table><tr>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/c2bb0bd49439230cd22759e3ac8aa6a9eae5d639deebf34e6e497faaabc59088" alt="" title="A Monster in Paris · 2011 · Watch · 2026-09-07" width="120"><br><strong>A Monster in Paris</strong><br><small>2011 · Watch · 2026-09-07</small></td>
@@ -58,7 +58,7 @@
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/18bd3c0ff2f3f2b5f2dded0a920d5eac526d1cb938a3ddd8ba6a203cd509ceb7" alt="" title="The Fall Guy · 2024 · Watch · 2026-07-11" width="120"><br><strong>The Fall Guy</strong><br><small>2024 · Watch · 2026-07-11</small></td>
 </tr></table>
 
-### Books
+### books
 
 <table><tr>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/9b6579e8d051d7da40c7a521f69d3100410b9192bc5555c07b8d7fcbf7e3e504" alt="" title="El extranjero · 1942 · Read · 2026-08-04" width="120"><br><strong>El extranjero</strong><br><small>1942 · Read · 2026-08-04</small></td>
