@@ -9,7 +9,7 @@
             "name": "dospuntostr.es", "description": "my personal webpage. supports microformats and webmentions.", "state": "public"
         }, 
         {
-            "name": "aggregato", "description": "media logger aggregator. bunches up data from letterboxd, goodreads, and etc on the same page", "state": "private"
+            "name": "aggregato", "description": "media logger aggregator. bunches up data from letterboxd, goodreads, and etc on the same page", "state": "public"
         }, 
         {
             "name": "habitr", "description": "my CS thesis. cross-platform app to promote healthy routines through gamification.", "state": "public",
@@ -18,6 +18,7 @@
 }
 ```
 
+everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 
 ## last listen
 <!-- aggregato:listen-start -->
