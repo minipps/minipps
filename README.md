@@ -52,11 +52,11 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ### films
 
 <table><tr>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/cecef14b3ccdc25f650d1f59cf27c0940a5b757b3ce864aff145b5e33c3ad849" alt="" title="Cure · 1997 · Watch · 2026-10-01" width="120"><br><strong>Cure</strong><br><small>1997 · Watch · 2026-10-01</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/c2bb0bd49439230cd22759e3ac8aa6a9eae5d639deebf34e6e497faaabc59088" alt="" title="A Monster in Paris · 2011 · Watch · 2026-09-07" width="120"><br><strong>A Monster in Paris</strong><br><small>2011 · Watch · 2026-09-07</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/5db7b4c5506e31d2c8886086297e6c87cc9c86222d5a541b52c5f396ab8966a1" alt="" title="An American Werewolf in London · 1981 · Watch · 2026-08-23" width="120"><br><strong>An American Werewolf in London</strong><br><small>1981 · Watch · 2026-08-23</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/d8f8ecf1c50616ec3ee60aac83f03848ab67a5be254db761db953f6c57e9d745" alt="" title="Van Helsing · 2004 · Watch · 2026-08-15" width="120"><br><strong>Van Helsing</strong><br><small>2004 · Watch · 2026-08-15</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/6ab47f48408f0309fccac0495222fa50b9f74d912affc1f537c3a9ff1f6fc0a6" alt="" title="Hamnet · 2025 · Watch · 2026-08-02" width="120"><br><strong>Hamnet</strong><br><small>2025 · Watch · 2026-08-02</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/18bd3c0ff2f3f2b5f2dded0a920d5eac526d1cb938a3ddd8ba6a203cd509ceb7" alt="" title="The Fall Guy · 2024 · Watch · 2026-07-11" width="120"><br><strong>The Fall Guy</strong><br><small>2024 · Watch · 2026-07-11</small></td>
 </tr></table>
 
 ### books
