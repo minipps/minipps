@@ -52,11 +52,11 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ### films
 
 <table><tr>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/54f212081b1d68a4ea8f1921e77ec819b67869e1f0dfbe5126c21b21c6ea90f4" alt="" title="The Twelve Tasks of Asterix · 1976 · Watch · 2026-10-04" width="120"><br><strong>The Twelve Tasks of Asterix</strong><br><small>1976 · Watch · 2026-10-04</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/f9e25464c562c4d858c3ba882ea3144492c8bd1c1f517837928f8a920d2c50b2" alt="" title="The Haunted Mansion · 2003 · Watch · 2026-10-03" width="120"><br><strong>The Haunted Mansion</strong><br><small>2003 · Watch · 2026-10-03</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/cecef14b3ccdc25f650d1f59cf27c0940a5b757b3ce864aff145b5e33c3ad849" alt="" title="Cure · 1997 · Watch · 2026-10-01" width="120"><br><strong>Cure</strong><br><small>1997 · Watch · 2026-10-01</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/c2bb0bd49439230cd22759e3ac8aa6a9eae5d639deebf34e6e497faaabc59088" alt="" title="A Monster in Paris · 2011 · Watch · 2026-09-07" width="120"><br><strong>A Monster in Paris</strong><br><small>2011 · Watch · 2026-09-07</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/5db7b4c5506e31d2c8886086297e6c87cc9c86222d5a541b52c5f396ab8966a1" alt="" title="An American Werewolf in London · 1981 · Watch · 2026-08-23" width="120"><br><strong>An American Werewolf in London</strong><br><small>1981 · Watch · 2026-08-23</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/d8f8ecf1c50616ec3ee60aac83f03848ab67a5be254db761db953f6c57e9d745" alt="" title="Van Helsing · 2004 · Watch · 2026-08-15" width="120"><br><strong>Van Helsing</strong><br><small>2004 · Watch · 2026-08-15</small></td>
 </tr></table>
 
 ### books
