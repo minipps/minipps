@@ -62,10 +62,10 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ### books
 
 <table><tr>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/afc5601ec84f70565df9559bbebb2401d0fe168cdd7992ab9cfde30b20d27c0a" alt="" title="Slow Down: The Degrowth Manifesto · 2020 · Read · 2026-09-29" width="120"><br><strong>Slow Down: The Degrowth Manifesto</strong><br><small>2020 · Read · 2026-09-29</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/9b6579e8d051d7da40c7a521f69d3100410b9192bc5555c07b8d7fcbf7e3e504" alt="" title="El extranjero · 1942 · Read · 2026-08-04" width="120"><br><strong>El extranjero</strong><br><small>1942 · Read · 2026-08-04</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/b6c09440f1bfbc591cfd43651f6b606076005dda044c206eb600dc7f72e682f8" alt="" title="Siddhartha · 1922 · Read · 2026-07-09" width="120"><br><strong>Siddhartha</strong><br><small>1922 · Read · 2026-07-09</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/b21d3c810a0d3d99880dbb3740b46a4df721facc9644ac77a556804973d78a00" alt="" title="Cat’s Cradle · 1963 · Read · 2026-06-17" width="120"><br><strong>Cat’s Cradle</strong><br><small>1963 · Read · 2026-06-17</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/7b5da1cab36a49c64831effe9059fa71afb26a029c761ec6cf7d7daa4d876da2" alt="" title="The Bell Jar · 1963 · Read · 2026-06-16" width="120"><br><strong>The Bell Jar</strong><br><small>1963 · Read · 2026-06-16</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/37c96b3f65eb533e8dd3e0b2d3ec388751e3ce5f10116450ab11817de5a33fd8" alt="" title="Cuentos góticos · 1831 · Read · 2026-06-10" width="120"><br><strong>Cuentos góticos</strong><br><small>1831 · Read · 2026-06-10</small></td>
 </tr></table>
 <!-- aggregato:latest-end -->
