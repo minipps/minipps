@@ -17,7 +17,7 @@
     ]
 }
 ```
-
+currently learning rust 🦀
 everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 
 ## last listen
