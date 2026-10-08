@@ -23,7 +23,7 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ## last listen
 <!-- aggregato:listen-start -->
 <table><tr>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/952a09447bd24f934f213ec82ac210f7bffd922de5bbae9ea2fe97be1ffd4a85" alt="" title="Kinoko Teikoku - Kenmokuseino Yuro" width="120"><br><strong>Kinoko Teikoku - Kenmokuseino Yuro</strong></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/e419b6373fa052f1fba1647d6549fc364f626cb1917dbef77e24b3492c8e6c17" alt="" title="Hitomi Sato - Nintendo Wi-Fi Connection" width="120"><br><strong>Hitomi Sato - Nintendo Wi-Fi Connection</strong></td>
 </tr></table>
 <!-- aggregato:listen-end -->
 
