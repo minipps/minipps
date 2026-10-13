@@ -23,7 +23,7 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ## last listen
 <!-- aggregato:listen-start -->
 <table><tr>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/e419b6373fa052f1fba1647d6549fc364f626cb1917dbef77e24b3492c8e6c17" alt="" title="Go Ichinose - A Poké Radar Hit!" width="120"><br><strong>Go Ichinose - A Poké Radar Hit!</strong></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/40b9171b8d626fb3bc88bebe89772427b9e38ccf7a38bf4f6d79a12bdd82ffb1" alt="" title="Lisasinson - Si Todo Se Tuerce" width="120"><br><strong>Lisasinson - Si Todo Se Tuerce</strong></td>
 </tr></table>
 <!-- aggregato:listen-end -->
 
