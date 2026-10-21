@@ -4,7 +4,7 @@
     "interests": ["photography", "cooking", "philosophy", "reading"],
     "likes": ["the wii", "moths", "serial experiments lain", "k-on"],
     "education": ["computer science @ usal (2018-2023)", "master's degree @ uc3m (2027-?)"],
-    "skills": ["python", "rust", "vuejs", "fastapi", "drf", "django", "devops", "aiops", "cybersecurity"]
+    "skills": ["python", "rust", "vuejs", "fastapi", "drf", "django", "devops", "aiops", "cybersecurity"],
     "projects": [
         {
             "name": "dospuntostr.es", "description": "my personal webpage. supports microformats and webmentions.", "state": "public"
