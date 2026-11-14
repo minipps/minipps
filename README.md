@@ -24,7 +24,7 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ## last listen
 <!-- aggregato:listen-start -->
 <table><tr>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/40b9171b8d626fb3bc88bebe89772427b9e38ccf7a38bf4f6d79a12bdd82ffb1" alt="" title="Lisasinson - Si Todo Se Tuerce" width="120"><br><strong>Lisasinson - Si Todo Se Tuerce</strong></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/7c9cdcf4e3353d7a89550c1e453c036d089e690ed760abea7f0e10c807adde09" alt="" title="Cariño - soy una perra" width="120"><br><strong>Cariño - soy una perra</strong></td>
 </tr></table>
 <!-- aggregato:listen-end -->
 
@@ -53,11 +53,11 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ### films
 
 <table><tr>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/5d1eebe2afde5075d1b2df574148b2fdd8a14c23064e6ab4ee79a16aed5dcea0" alt="" title="La Bola Negra · 2026 · Watch · 2026-10-14" width="120"><br><strong>La Bola Negra</strong><br><small>2026 · Watch · 2026-10-14</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/1140c6cb5e18e49c3e2d790ec61c4ce09cc6c88b368934f3d43b95840e3dd31d" alt="" title="The Twilight Saga: New Moon · 2009 · Watch · 2026-10-12" width="120"><br><strong>The Twilight Saga: New Moon</strong><br><small>2009 · Watch · 2026-10-12</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/54f212081b1d68a4ea8f1921e77ec819b67869e1f0dfbe5126c21b21c6ea90f4" alt="" title="The Twelve Tasks of Asterix · 1976 · Watch · 2026-10-04" width="120"><br><strong>The Twelve Tasks of Asterix</strong><br><small>1976 · Watch · 2026-10-04</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/f9e25464c562c4d858c3ba882ea3144492c8bd1c1f517837928f8a920d2c50b2" alt="" title="The Haunted Mansion · 2003 · Watch · 2026-10-03" width="120"><br><strong>The Haunted Mansion</strong><br><small>2003 · Watch · 2026-10-03</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/cecef14b3ccdc25f650d1f59cf27c0940a5b757b3ce864aff145b5e33c3ad849" alt="" title="Cure · 1997 · Watch · 2026-10-01" width="120"><br><strong>Cure</strong><br><small>1997 · Watch · 2026-10-01</small></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/6ec7907de8b5f093add70755b5f1072fcff876d69062f5cc9587b196bb1950c3" alt="" title="The Rocky Horror Picture Show · 1975 · Watch · 2026-11-13" width="120"><br><strong>The Rocky Horror Picture Show</strong><br><small>1975 · Watch · 2026-11-13</small></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/949c6c94c44cf6a2055d265ff45db666248dc5154f357ea7575360dfd9c6f934" alt="" title="Beauty and the Beast · 1978 · Watch · 2026-11-11" width="120"><br><strong>Beauty and the Beast</strong><br><small>1978 · Watch · 2026-11-11</small></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/61cc123fe829a4023e43715add1ec5d6ebb0f076a8c6d21a67b7b32922f03666" alt="" title="They Live · 1988 · Watch · 2026-10-29" width="120"><br><strong>They Live</strong><br><small>1988 · Watch · 2026-10-29</small></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/31fdfd685e8d939e1a1890c14ad7a0d0661639039c7f5b3af439a7a4921f32ba" alt="" title="Shoplifters · 2018 · Watch · 2026-10-27" width="120"><br><strong>Shoplifters</strong><br><small>2018 · Watch · 2026-10-27</small></td>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/f239a087dc2b4a9aff8d76710f81df8cb03fbfb82f0835f129ca86849c730340" alt="" title="Donkey Skin · 1970 · Watch · 2026-10-24" width="120"><br><strong>Donkey Skin</strong><br><small>1970 · Watch · 2026-10-24</small></td>
 </tr></table>
 
 ### books
