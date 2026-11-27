@@ -53,11 +53,11 @@ everything below is powered by [aggregato](https://minipps.github.io/aggregato/)
 ### films
 
 <table><tr>
+<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/8e3e19c178f03c0a038e473bc023ef30f9c2365dbb55a48639858e8dc4090e30" alt="" title="You Can See Everything · 2026 · Watch · 2026-11-26" width="120"><br><strong>You Can See Everything</strong><br><small>2026 · Watch · 2026-11-26</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/e2a6b8395925ac94ef57849ae62f36d8933535a38ac9c3a0c76828c748b8c26e" alt="" title="Other Mommy · 2026 · Watch · 2026-11-24" width="120"><br><strong>Other Mommy</strong><br><small>2026 · Watch · 2026-11-24</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/6ec7907de8b5f093add70755b5f1072fcff876d69062f5cc9587b196bb1950c3" alt="" title="The Rocky Horror Picture Show · 1975 · Watch · 2026-11-13" width="120"><br><strong>The Rocky Horror Picture Show</strong><br><small>1975 · Watch · 2026-11-13</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/949c6c94c44cf6a2055d265ff45db666248dc5154f357ea7575360dfd9c6f934" alt="" title="Beauty and the Beast · 1978 · Watch · 2026-11-11" width="120"><br><strong>Beauty and the Beast</strong><br><small>1978 · Watch · 2026-11-11</small></td>
 <td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/61cc123fe829a4023e43715add1ec5d6ebb0f076a8c6d21a67b7b32922f03666" alt="" title="They Live · 1988 · Watch · 2026-10-29" width="120"><br><strong>They Live</strong><br><small>1988 · Watch · 2026-10-29</small></td>
-<td align="center"><img src="https://aggregato.dospuntostr.es/api/v1/media/image/31fdfd685e8d939e1a1890c14ad7a0d0661639039c7f5b3af439a7a4921f32ba" alt="" title="Shoplifters · 2018 · Watch · 2026-10-27" width="120"><br><strong>Shoplifters</strong><br><small>2018 · Watch · 2026-10-27</small></td>
 </tr></table>
 
 ### books
